@@ -1,0 +1,1 @@
+# Sidebar-Interaction-With-Day-Night-effect
